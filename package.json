@@ -1,5 +1,5 @@
 {
-  "name": "joepegs-exploit",
+  "name": "joe-mint-sniper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xToshii/joepegs-exploit.git"
+    "url": "git+https://github.com/0xToshii/joe-mint-sniper.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0xToshii/joepegs-exploit/issues"
+    "url": "https://github.com/0xToshii/joe-mint-sniper/issues"
   },
-  "homepage": "https://github.com/0xToshii/joepegs-exploit#readme",
+  "homepage": "https://github.com/0xToshii/joe-mint-sniper#readme",
   "devDependencies": {
     "hardhat": "^2.12.0",
     "ts-node": "^10.9.1",
